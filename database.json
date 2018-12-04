@@ -4,6 +4,10 @@
     "https://gist.github.com/2dda69ce154bbd2bcd32fd69cede1da3.git:BNO055Visualizer.groovy": [
       "https://gist.github.com/2dda69ce154bbd2bcd32fd69cede1da3.git",
       "BNO055Visualizer.groovy"
+    ],
+    "https://gist.github.com/fd1602bce81ca9096db3f28648b3d312.git:LoadIMUServer.groovy": [
+      "https://gist.github.com/fd1602bce81ca9096db3f28648b3d312.git",
+      "LoadIMUServer.groovy"
     ]
   },
   "BowlerStudioConfigs": {
